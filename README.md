@@ -1,4 +1,4 @@
-# Simple brwon motion simulator
+# Simple Brown motion simulator
 
 ## Introduction
 Brownian motion, also known as particle theory, is a physical phenomenon that describes the random movement of particles suspended in a fluid (liquid or gas). This motion results from the fast and random collisions of the particles with the molecules of the fluid in which they are immersed. The theory is named after the botanist Robert Brown, who first observed the motion in 1827 while looking at pollen particles floating in water under a microscope.
