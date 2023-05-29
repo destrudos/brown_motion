@@ -18,6 +18,7 @@ Script contains following *env* variables:
 2. `y_size` — height of simulation box
 3. `speed` — particle speed
 4. `radius` — particle radius
+5. `num_particles` — the number of particles
 
 After adjustments just run it if you have all necessary library in your python environment:
 
